@@ -11,18 +11,18 @@
 
 /* SETTINGS */
 :root {
-  /* ACCENT COLORS */
-  --main-color: #2780e6; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
-  --hover-color: #1e63b3; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
-  --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
-  --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
+/* ACCENT COLORS */
+  --main-color: #ff7b00; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+  --hover-color: #ff5e00; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
+  --success-color: #ffee00; /* success accent color (hex, rgb or hsl) [default: #43b581] */
+  --danger-color: #bd0000; /* danger accent color (hex, rgb or hsl) [default: #982929] */
   --url-color: var(--main-color); /*The color of url links [default: var(--main-color)]*/
 
   /* STATUS COLORS */
-  --online-color: #43b581; /* online status color (hex, rgb or hsl) [default: #43b581] */
-  --idle-color: #faa61a; /* idle status color (hex, rgb or hsl) [default: #faa61a] */
-  --dnd-color: #982929; /* dnd status color (hex, rgb or hsl) [default: #982929] */
-  --streaming-color: #593695; /* streaming status color (hex, rgb or hsl) [default: #593695] */
+  --online-color: #0077ff; /* online status color (hex, rgb or hsl) [default: #0077ff] */
+  --idle-color: #0051ff; /* idle status color (hex, rgb or hsl) [default: #0051ff] */
+  --dnd-color: #0004ff; /* dnd status color (hex, rgb or hsl) [default: #0004f] */
+  --streaming-color: #3f0e9b; /* streaming status color (hex, rgb or hsl) [default: #593695] */
   --offline-color: #808080; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
 
   /* GENERAL */
